@@ -10,7 +10,7 @@ then
 
 fi
 
-yum install mysql -y
+yum install postfix -y
 
 if [ $? -ne 0]
 
